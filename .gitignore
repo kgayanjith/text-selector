@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+icons/
+*.pyc
+node_modules/
+.vscode/
+.idea/
+*.zip
+*.crx
+*.pem
