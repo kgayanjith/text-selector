@@ -1,5 +1,5 @@
-chrome.storage.local.get("on", ({ on }) => {
-  if (!on) return;
+chrome.storage.local.get("off", ({ off }) => {
+  if (off) return;
 
   function force(el) {
     el.style.setProperty("user-select", "text", "important");
