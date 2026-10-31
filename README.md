@@ -153,3 +153,4 @@ deactivate
 
 ## License
 
+This project is free to use for learning and personal projects.
